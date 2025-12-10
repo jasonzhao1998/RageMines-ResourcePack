@@ -1,0 +1,726 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/guilty_thorn_sword"
+        },
+        "threshold": 1.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/anneal_blade_sword"
+        },
+        "threshold": 2.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/black_iron_great_sword"
+        },
+        "threshold": 3.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/lambent_light_sword"
+        },
+        "threshold": 4.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/dark_repulser_sword"
+        },
+        "threshold": 5.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/karakurenai_sword"
+        },
+        "threshold": 6.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/excalibur_sword"
+        },
+        "threshold": 7.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/tyrant_dragon_sword"
+        },
+        "threshold": 8.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/gram_sword"
+        },
+        "threshold": 9.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/liberator_sword"
+        },
+        "threshold": 10.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/elucidator_sword"
+        },
+        "threshold": 11.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/hallow"
+        },
+        "threshold": 12.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/ancient_greatslab"
+        },
+        "threshold": 13.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/amethyst_greatblade"
+        },
+        "threshold": 14.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/azure_dagger"
+        },
+        "threshold": 15.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/azure_dagger_blocking"
+        },
+        "threshold": 16.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/azure_greataxe"
+        },
+        "threshold": 17.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/azure_greatsword"
+        },
+        "threshold": 18.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/azure_sabre"
+        },
+        "threshold": 19.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/azure_sabre_blocking"
+        },
+        "threshold": 20.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/azure_scythe"
+        },
+        "threshold": 21.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/berserkers_cleaver"
+        },
+        "threshold": 22.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/berserkers_greataxe"
+        },
+        "threshold": 23.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/black_iron_clobberer"
+        },
+        "threshold": 24.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/black_iron_great_sword_sword"
+        },
+        "threshold": 25.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/black_iron_greataxe"
+        },
+        "threshold": 26.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/black_iron_greatsword"
+        },
+        "threshold": 27.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/calamity_blade"
+        },
+        "threshold": 28.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/calamity_blade_thin"
+        },
+        "threshold": 29.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/claymore"
+        },
+        "threshold": 30.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/crescent_greataxe"
+        },
+        "threshold": 31.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/crimson_cleaver"
+        },
+        "threshold": 32.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/crimson_lance"
+        },
+        "threshold": 33.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/crystal_frostblade"
+        },
+        "threshold": 34.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/crystal_frostscythe"
+        },
+        "threshold": 35.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/demonic_sword"
+        },
+        "threshold": 36.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/demons_blood_blade"
+        },
+        "threshold": 37.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/demonslayers_greatsword"
+        },
+        "threshold": 38.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/dragon_sword"
+        },
+        "threshold": 39.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/emerald_greatcleaver"
+        },
+        "threshold": 40.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/ethereal_frostblade"
+        },
+        "threshold": 41.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/flamberge"
+        },
+        "threshold": 42.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/gilded_phoenix_greataxe"
+        },
+        "threshold": 43.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/gloomsteel_greataxe"
+        },
+        "threshold": 44.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/gloomsteel_katana"
+        },
+        "threshold": 45.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/gloomsteel_katana_blocking"
+        },
+        "threshold": 46.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/gloomsteel_knife"
+        },
+        "threshold": 47.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/gloomsteel_knife_blocking"
+        },
+        "threshold": 48.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/grand_claymore"
+        },
+        "threshold": 49.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/heavenly_partisan"
+        },
+        "threshold": 50.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/invisible_shield"
+        },
+        "threshold": 51.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_battle_axe"
+        },
+        "threshold": 52.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_broadsword"
+        },
+        "threshold": 53.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_dagger"
+        },
+        "threshold": 54.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_dagger_blocking"
+        },
+        "threshold": 55.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_greataxe"
+        },
+        "threshold": 56.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_halberd"
+        },
+        "threshold": 57.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_hay_sickle"
+        },
+        "threshold": 58.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_mace"
+        },
+        "threshold": 59.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_polearm"
+        },
+        "threshold": 60.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_sai"
+        },
+        "threshold": 61.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/iron_sai_blocking"
+        },
+        "threshold": 62.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/lycanbane"
+        },
+        "threshold": 63.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/moonlight"
+        },
+        "threshold": 64.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/moonlight_blocking"
+        },
+        "threshold": 65.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/nature_sword"
+        },
+        "threshold": 66.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/nocturne"
+        },
+        "threshold": 67.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/oculus"
+        },
+        "threshold": 68.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/opaline_lance"
+        },
+        "threshold": 69.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/phantomguard_greatsword"
+        },
+        "threshold": 70.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/phantomguard_partisan"
+        },
+        "threshold": 71.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/piercer"
+        },
+        "threshold": 72.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/ravenous_blade"
+        },
+        "threshold": 73.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/revenants_darkscepter"
+        },
+        "threshold": 74.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/revenants_gravecleaver"
+        },
+        "threshold": 75.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/revenants_gravescepter"
+        },
+        "threshold": 76.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/runic_piercer"
+        },
+        "threshold": 77.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/sacrificial_cleaver"
+        },
+        "threshold": 78.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/skeleton_axe"
+        },
+        "threshold": 79.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/solstice"
+        },
+        "threshold": 80.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/spider_sword"
+        },
+        "threshold": 81.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/talonbrand"
+        },
+        "threshold": 82.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/treacherous_axe"
+        },
+        "threshold": 83.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/treacherous_bludgeon"
+        },
+        "threshold": 84.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/treacherous_cleaver"
+        },
+        "threshold": 85.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/uchigatana"
+        },
+        "threshold": 86.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/uchigatana_blocking"
+        },
+        "threshold": 87.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/valhakyra"
+        },
+        "threshold": 88.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/vengeance_blade"
+        },
+        "threshold": 89.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/vengeance_blade_blocking"
+        },
+        "threshold": 90.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/vesper"
+        },
+        "threshold": 91.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/vindicator"
+        },
+        "threshold": 92.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/vindicator_blocking"
+        },
+        "threshold": 93.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/viridian_greataxe"
+        },
+        "threshold": 94.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/void_oculus"
+        },
+        "threshold": 95.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/windreaper"
+        },
+        "threshold": 96.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/winterthorn"
+        },
+        "threshold": 97.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/wooden_bludgeon"
+        },
+        "threshold": 98.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/wooden_tonfa"
+        },
+        "threshold": 99.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/wooden_tonfa_blocking"
+        },
+        "threshold": 100.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/zenith"
+        },
+        "threshold": 101.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/zenith_blocking"
+        },
+        "threshold": 102.0
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/netherite_sword"
+    }
+  }
+}

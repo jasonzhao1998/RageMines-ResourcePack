@@ -1,0 +1,8 @@
+Given assets/minecraft/textures/item/pickaxes/diamond_pickaxe.png and custom_pickaxe.py, make the following 16x16 pngs with names and RGB values:
+Loam soil (58, 43, 36)
+Peat (96, 60, 32)
+Dirt (134, 96, 67)
+Ryegrass (76, 83, 42)
+Lemon grass (166, 182, 85)
+Oak leaves (74, 110, 41)
+Silvergrass (110, 135, 65)

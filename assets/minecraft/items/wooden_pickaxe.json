@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/loam_soil_pickaxe"
+        },
+        "threshold": 1.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/peat_pickaxe"
+        },
+        "threshold": 2.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/dirt_pickaxe"
+        },
+        "threshold": 3.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/ryegrass_pickaxe"
+        },
+        "threshold": 4.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/lemon_grass_pickaxe"
+        },
+        "threshold": 5.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/oak_leaves_pickaxe"
+        },
+        "threshold": 6.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/silvergrass_pickaxe"
+        },
+        "threshold": 7.0
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/wooden_pickaxe"
+    }
+  }
+}
