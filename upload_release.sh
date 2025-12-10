@@ -27,7 +27,7 @@ echo ""
 # Step 1.5: Create zip from folder
 echo "Step 1.5: Creating zip file..."
 rm -f "$ZIP_NAME"  # Remove if exists
-zip -r "$ZIP_NAME" "$FOLDER_NAME" -q
+(cd "$FOLDER_NAME" && zip -r "../$ZIP_NAME" . -q)
 
 if [ ! -f "$ZIP_NAME" ]; then
     echo "❌ Error: $ZIP_NAME was not created"
