@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "shears/shears_1"
+        },
+        "threshold": 1.0
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/shears"
+    }
+  }
+}
