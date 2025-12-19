@@ -6,20 +6,6 @@
       {
         "model": {
           "type": "model",
-          "model": "swords/loam_soil_sword"
-        },
-        "threshold": 1.0
-      },
-      {
-        "model": {
-          "type": "model",
-          "model": "swords/peat_sword"
-        },
-        "threshold": 2.0
-      },
-      {
-        "model": {
-          "type": "model",
           "model": "swords/dirt_sword"
         },
         "threshold": 3.0
@@ -51,11 +37,32 @@
           "model": "swords/silvergrass_sword"
         },
         "threshold": 7.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/overworld_sword"
+        },
+        "threshold": 8.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/coal_sword"
+        },
+        "threshold": 10.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/dripstone_sword"
+        },
+        "threshold": 11.0
       }
     ],
     "fallback": {
       "type": "model",
-      "model": "item/wooden_sword"
+      "model": "item/diamond_sword"
     }
   }
 }

@@ -94,7 +94,8 @@ swords = [
     ("ryegrass_sword.png", (76, 83, 42)),
     ("lemon_grass_sword.png", (166, 182, 85)),
     ("oak_leaves_sword.png", (74, 110, 41)),
-    ("silvergrass_sword.png", (110, 135, 65))
+    ("silvergrass_sword.png", (110, 135, 65)),
+    ("dripstone_sword.png", (143, 119, 99))
 ]
 
 print("Generating sword textures with color variation...")

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:overworld_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:overworld_armor"
+      }
+    ]
+  }
+}

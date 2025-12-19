@@ -6,21 +6,21 @@
       {
         "model": {
           "type": "model",
-          "model": "swords/coal_sword"
+          "model": "foods/hotdog"
         },
         "threshold": 1.0
       },
       {
         "model": {
           "type": "model",
-          "model": "swords/dripstone_sword"
+          "model": "foods/poop"
         },
         "threshold": 2.0
       }
     ],
     "fallback": {
       "type": "model",
-      "model": "item/netherite_sword"
+      "model": "item/enchanted_golden_apple"
     }
   }
 }

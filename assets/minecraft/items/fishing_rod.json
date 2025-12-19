@@ -1,0 +1,35 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "model": {
+          "type": "condition",
+          "on_false": {
+            "type": "model",
+            "model": "fishing_rods/max_fishing_rod_cast"
+          },
+          "on_true": {
+            "type": "model",
+            "model": "fishing_rods/max_fishing_rod"
+          },
+          "property": "fishing_rod/cast"
+        },
+        "threshold": 1.0
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/fishing_rod"
+      },
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/fishing_rod_cast"
+      },
+      "property": "minecraft:fishing_rod/cast"
+    }
+  }
+}

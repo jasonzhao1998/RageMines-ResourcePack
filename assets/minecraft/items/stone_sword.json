@@ -6,21 +6,14 @@
       {
         "model": {
           "type": "model",
-          "model": "swords/coal_sword"
+          "model": "swords/loam_soil_sword"
         },
         "threshold": 1.0
-      },
-      {
-        "model": {
-          "type": "model",
-          "model": "swords/dripstone_sword"
-        },
-        "threshold": 2.0
       }
     ],
     "fallback": {
       "type": "model",
-      "model": "item/netherite_sword"
+      "model": "item/stone_sword"
     }
   }
 }
