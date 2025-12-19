@@ -22,7 +22,7 @@ if __name__ == "__main__":
         decimal = int(sys.argv[1])
         r, g, b = decimal_to_rgb(decimal)
         hex_code = rgb_to_hex(r, g, b)
-        print(f"RGB({r}, {g}, {b}) → {hex_code}")
+        print(f"RGB({r} {g} {b}) → {hex_code}")
     except ValueError:
         print(f"Error: '{sys.argv[1]}' is not a valid number")
         sys.exit(1)

@@ -6,28 +6,28 @@
       {
         "model": {
           "type": "model",
-          "model": "swords/coal_sword"
+          "model": "pickaxes/coal_pickaxe"
         },
         "threshold": 1.0
       },
       {
         "model": {
           "type": "model",
-          "model": "swords/dripstone_sword"
+          "model": "pickaxes/dripstone_pickaxe"
         },
         "threshold": 2.0
       },
       {
         "model": {
           "type": "model",
-          "model": "swords/emerald_sword"
+          "model": "pickaxes/emerald_pickaxe"
         },
         "threshold": 3.0
       }
     ],
     "fallback": {
       "type": "model",
-      "model": "item/netherite_sword"
+      "model": "item/stone_pickaxe"
     }
   }
 }
