@@ -6,35 +6,28 @@
       {
         "model": {
           "type": "model",
-          "model": "swords/coal_sword"
+          "model": "littleroom_warden:warden_hat"
         },
         "threshold": 1.0
       },
       {
         "model": {
           "type": "model",
-          "model": "swords/dripstone_sword"
+          "model": "littleroom_warden:warden_pet"
         },
         "threshold": 2.0
       },
       {
         "model": {
           "type": "model",
-          "model": "swords/emerald_sword"
+          "model": "littleroom_warden:warden_heart"
         },
         "threshold": 3.0
-      },
-      {
-        "model": {
-          "type": "model",
-          "model": "littleroom_warden:warden_sword"
-        },
-        "threshold": 4.0
       }
     ],
     "fallback": {
       "type": "model",
-      "model": "item/netherite_sword"
+      "model": "item/ink_sac"
     }
   }
 }

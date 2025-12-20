@@ -1,0 +1,112 @@
+{
+   "littleroom.warden.vox_attack":{
+		 "sounds": [
+			"littleroom/warden/vox_attack1",
+			"littleroom/warden/vox_attack2",
+			"littleroom/warden/vox_attack3",
+			"littleroom/warden/vox_attack4",
+			"littleroom/warden/vox_attack5"
+		 ]
+	},
+   "littleroom.warden.vox_death":{
+		 "sounds": [
+			"littleroom/warden/vox_death1",
+			"littleroom/warden/vox_death2",
+			"littleroom/warden/vox_death3"
+		 ]
+	},
+   "littleroom.warden.vox_roar":{
+		 "sounds": [
+			"littleroom/warden/vox_roar1",
+			"littleroom/warden/vox_roar2",
+			"littleroom/warden/vox_roar3"
+		 ]
+	},
+   "littleroom.warden.vox_stun":{
+		 "sounds": [
+			"littleroom/warden/vox_stun1",
+			"littleroom/warden/vox_stun2",
+			"littleroom/warden/vox_stun3",
+			"littleroom/warden/vox_stun4",
+			"littleroom/warden/vox_stun5"
+		 ]
+	},
+   "littleroom.warden.emerge":{
+		 "sounds": [
+			"littleroom/warden/emerge"
+		 ]
+	},
+   "littleroom.warden.ground_impact":{
+		 "sounds": [
+			"littleroom/warden/ground_impact1",
+			"littleroom/warden/ground_impact2",
+			"littleroom/warden/ground_impact3",
+			"littleroom/warden/ground_impact4"
+		 ]
+	},
+   "littleroom.warden.impact":{
+		 "sounds": [
+			"littleroom/warden/impact1",
+			"littleroom/warden/impact2",
+			"littleroom/warden/impact3",
+			"littleroom/warden/impact4",
+			"littleroom/warden/impact5"
+		 ]
+	},
+   "littleroom.warden.poof":{
+		 "sounds": [
+			"littleroom/warden/poof"
+		 ]
+	},
+   "littleroom.warden.sonar_blast":{
+		 "sounds": [
+			"littleroom/warden/sonar_blast"
+		 ]
+	},
+   "littleroom.warden.sonar_blast_impact":{
+		 "sounds": [
+			"littleroom/warden/sonar_blast_impact"
+		 ]
+	},
+   "littleroom.warden.spawn":{
+		 "sounds": [
+			"littleroom/warden/spawn"
+		 ]
+	},
+   "littleroom.warden.submerge":{
+		 "sounds": [
+			"littleroom/warden/submerge"
+		 ]
+	},
+   "littleroom.warden.swipe":{
+		 "sounds": [
+			"littleroom/warden/swipe_1",
+			"littleroom/warden/swipe_2",
+			"littleroom/warden/swipe_3",
+			"littleroom/warden/swipe_4",
+			"littleroom/warden/swipe_5",
+			"littleroom/warden/swipe_6",
+			"littleroom/warden/swipe_7",
+			"littleroom/warden/swipe_8"
+		 ]
+	},
+   "littleroom.warden.sniff":{
+		 "sounds": [
+			"littleroom/warden/vox_sniff1",
+			"littleroom/warden/vox_sniff2",
+			"littleroom/warden/vox_sniff3",
+			"littleroom/warden/vox_sniff4",
+			"littleroom/warden/vox_sniff5"
+		 ]
+	},
+   "littleroom.warden.death_impact":{
+		 "sounds": [
+			"littleroom/warden/death_impact"
+		 ]
+	},
+   "littleroom.warden.death_drip":{
+		 "sounds": [
+			"littleroom/warden/death_drip"
+		 ]
+	}
+}

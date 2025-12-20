@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/mega_warden_pet","particle":"#0"},"elements":[{"from":[6.4829197,5.0014763,7.935693],"to":[9.48292,8.001476,7.935693],"faces":{"south":{"uv":[15.25,0.0,16.0,0.75],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[16.0,0.0,15.25,0.75],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

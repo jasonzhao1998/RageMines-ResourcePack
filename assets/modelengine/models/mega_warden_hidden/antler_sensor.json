@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/mega_warden_invis","particle":"#0"},"elements":[{"from":[5.499999,8.0,8.0],"to":[10.5,16.0,8.0],"faces":{"south":{"uv":[5.3145,2.252,5.623,2.748],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[5.623,2.252,5.3145,2.748],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}
