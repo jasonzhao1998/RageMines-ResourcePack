@@ -30,6 +30,55 @@
           "model": "littleroom_warden:warden_sword"
         },
         "threshold": 4.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/cherry_wood_sword"
+        },
+        "threshold": 5.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/rose_stone_sword"
+        },
+        "threshold": 6.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/cherry_leaves_sword"
+        },
+        "threshold": 7.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/bloom_clay_sword"
+        },
+        "threshold": 8.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/cherry_sand_sword"
+        },
+        "threshold": 9.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/spirit_clay_sword"
+        },
+        "threshold": 10.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/pink_petal_sword"
+        },
+        "threshold": 11.0
       }
     ],
     "fallback": {

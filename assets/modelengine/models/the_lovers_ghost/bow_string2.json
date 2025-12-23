@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/the_lovers_ghost","particle":"#0"},"elements":[{"from":[8.0,-10.5,8.0],"to":[8.0,8.0,8.5],"faces":{"east":{"uv":[9.5,9.875,9.625,8.25],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[9.5,9.875,9.625,8.25],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/raven","particle":"#0"},"elements":[{"from":[7.73267,7.99652,6.3905306],"to":[8.56259,7.99652,8.05037],"faces":{"up":{"uv":[4.5,13.94,4.06,13.06],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[13.5,4.06,13.06,4.94],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

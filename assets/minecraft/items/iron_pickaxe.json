@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/cherry_wood_pickaxe"
+        },
+        "threshold": 1.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/rose_stone_pickaxe"
+        },
+        "threshold": 2.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/cherry_leaves_pickaxe"
+        },
+        "threshold": 3.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/bloom_clay_pickaxe"
+        },
+        "threshold": 4.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/cherry_sand_pickaxe"
+        },
+        "threshold": 5.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/spirit_clay_pickaxe"
+        },
+        "threshold": 6.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/pink_petal_pickaxe"
+        },
+        "threshold": 7.0
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/iron_pickaxe"
+    }
+  }
+}

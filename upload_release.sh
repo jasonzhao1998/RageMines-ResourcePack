@@ -37,10 +37,12 @@ fi
 echo "✓ Zip file created: $ZIP_NAME"
 echo ""
 
-# Step 2: Calculate SHA-1 hash
-echo "Step 2: Calculating SHA-1 hash..."
+# Step 2: Calculate SHA-1 hash and generate UUID
+echo "Step 2: Calculating SHA-1 hash and generating UUID..."
 SHA1=$(shasum -a 1 "$ZIP_NAME" | awk '{print $1}')
+UUID=$(python3 -c "import uuid; print(uuid.uuid4())")
 echo "✓ SHA-1: $SHA1"
+echo "✓ UUID: $UUID"
 echo ""
 
 # Step 3: Check if gh CLI is installed
@@ -101,7 +103,11 @@ echo ""
 echo "🔐 SHA-1 Hash:"
 echo "   $SHA1"
 echo ""
+echo "🆔 Resource Pack UUID:"
+echo "   $UUID"
+echo ""
 echo "📝 Add to server.properties:"
 echo "   resource-pack=https://github.com/$REPO/releases/download/$VERSION/$ZIP_NAME"
+echo "   resource-pack-id=$UUID"
 echo "   resource-pack-sha1=$SHA1"
 echo ""

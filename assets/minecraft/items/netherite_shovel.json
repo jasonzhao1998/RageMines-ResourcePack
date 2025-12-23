@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "shovels/pink_shovel"
+        },
+        "threshold": 1.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "shovels/blossom_shovel"
+        },
+        "threshold": 2.0
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/netherite_shovel"
+    }
+  }
+}

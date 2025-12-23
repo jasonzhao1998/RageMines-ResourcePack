@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/pickaxes/bloom_clay_pickaxe"
+  }
+}

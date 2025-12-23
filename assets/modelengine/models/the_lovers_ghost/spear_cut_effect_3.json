@@ -1,0 +1,1 @@
+{"textures":{"1":"modelengine:entity/the_lovers_slash_effects_2","particle":"#1"},"elements":[{"from":[7.9000006,0.0,8.0],"to":[8.1,8.0,24.0],"faces":{"east":{"uv":[10.375,7.5,9.375,3.5],"tintindex":0,"rotation":90,"texture":"#1"},"west":{"uv":[10.375,3.5,9.375,7.5],"tintindex":0,"rotation":90,"texture":"#1"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}
