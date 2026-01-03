@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "sakura/wedding_ring"
+        },
+        "threshold": 1.0
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/gold_nugget"
+    }
+  }
+}

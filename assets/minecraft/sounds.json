@@ -1,0 +1,18 @@
+{
+  "samus.ninja_slice":{
+    "sounds": [
+      "samus/ninja_slice1",
+      "samus/ninja_slice2",
+      "samus/ninja_slice3",
+      "samus/ninja_slice4"
+    ]
+  },
+  "samus.samurai_panda_slash":{
+    "sounds": [
+      "samus/samurai_panda_slash1",
+      "samus/samurai_panda_slash2",
+      "samus/samurai_panda_slash3",
+      "samus/samurai_panda_slash4"
+    ]
+  }
+}

@@ -51,6 +51,13 @@
           "model": "pickaxes/pink_petal_pickaxe"
         },
         "threshold": 7.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "pickaxes/blossom_pickaxe"
+        },
+        "threshold": 8.0
       }
     ],
     "fallback": {

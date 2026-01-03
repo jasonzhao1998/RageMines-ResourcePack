@@ -79,6 +79,13 @@
           "model": "swords/pink_petal_sword"
         },
         "threshold": 11.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/blossom_sword"
+        },
+        "threshold": 12.0
       }
     ],
     "fallback": {

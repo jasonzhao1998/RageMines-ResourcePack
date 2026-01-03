@@ -765,6 +765,13 @@
           "model": "swords/zenith_blocking"
         },
         "threshold": 109.0
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "swords/pizza"
+        },
+        "threshold": 110.0
       }
     ],
     "fallback": {

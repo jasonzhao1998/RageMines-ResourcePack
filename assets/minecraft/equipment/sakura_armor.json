@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:sakura_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:sakura_armor"
+      }
+    ]
+  }
+}
